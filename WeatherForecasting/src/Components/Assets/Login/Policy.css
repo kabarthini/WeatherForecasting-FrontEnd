@@ -1,0 +1,107 @@
+.bodyt
+{
+    background: url("https://img.freepik.com/premium-vector/terms-conditions-concept-illustration_108061-451.jpg?w=2000");
+    background-position:cover;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 230vh;
+
+}
+.rectt
+{
+    position:absolute;
+    top:100px;
+    background-color:rgba(255, 255, 255, 0.742);
+    width: 1200px;
+    height: 1600px;
+    left: 200px;
+}
+.headt
+{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ca870a;
+    margin-top: -10px;
+
+}
+.parat
+{
+    position: relative;
+    font-size: 20px;
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hwb(60 1% 95%);
+    margin-top: 80px;
+    left:-50px;
+
+}
+.para2t
+{
+    position: relative;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(4, 4, 4);
+    margin-left: 70px;
+    margin-top: 10px;
+    left:-50px;
+
+}
+.para3t
+{
+    position: relative;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(12, 12, 12);
+    margin-left: 70px;
+    margin-top: 50px;
+    left:-50px;
+
+
+}
+.para4t
+{
+    position: absolute;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(5, 6, 6);
+    margin-left: 70px;
+    margin-top: 00px;
+    left:-50px;
+
+}
+.para5t
+{
+    position: relative;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 70px;
+    margin-top: 80px;
+    left:-50px;
+
+}
+.para6t
+{
+    position: relative;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(10, 10, 10);
+    margin-left: 70px;
+    margin-top: 50px;
+    left:-50px;
+
+}
+.para7t
+{
+    position: relative;
+    font-size: 20px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(12, 12, 12);
+    margin-left: 70px;
+    margin-top: 50px;
+    left:-50px;
+
+}
